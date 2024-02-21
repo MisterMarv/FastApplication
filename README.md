@@ -3,10 +3,12 @@ O projeto consiste no desenvolvimento de uma API REST em Node.js, utilizando Typ
 
 # Como rodar o backend
 
-- Basta executar:
+- Basta executar no seu IDE:
 - npm install --legacy-peer-deps na pasta FastApplication
 - cd backend
 - node ApiRest.js
+
+- Lembre de verificar se as portas localhost 3000 e 8081 estão disponíveis! São as padrões do projeto.
 
 - Vale ressaltar que o install citado no readme do frontend, deve ser rodado na pasta do frontend. 
 
