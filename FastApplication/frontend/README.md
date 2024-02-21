@@ -4,7 +4,7 @@
 ```
 npm install --legacy-peer-deps
 ```
-
+# O INSTALL DEVE SER FEITO NA PASTA /frontend
 ### Compiles and hot-reloads for development
 ```
 npm run serve
